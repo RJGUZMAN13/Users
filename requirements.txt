@@ -1,4 +1,0 @@
-streamlit
-pandas
-firebase-admin
-openpyxl
